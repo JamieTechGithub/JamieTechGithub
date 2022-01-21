@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JamieTechGithub
+- 🤔 I’m interested in Tech
+- 🙂 I’m currently learning Spreadsheets and Databases
